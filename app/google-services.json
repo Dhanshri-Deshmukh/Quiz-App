@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "639799452643",
+    "firebase_url": "https://quiz-app-9953c-default-rtdb.firebaseio.com",
+    "project_id": "quiz-app-9953c",
+    "storage_bucket": "quiz-app-9953c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639799452643:android:a187a81a5784f32f6476d6",
+        "android_client_info": {
+          "package_name": "com.example.Quiz_App"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cT2ApsQ3tG9mleIhKiQo6Qp-uIOPr_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639799452643:android:d64154e5622eef3d6476d6",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cT2ApsQ3tG9mleIhKiQo6Qp-uIOPr_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639799452643:android:6329a621e6c195896476d6",
+        "android_client_info": {
+          "package_name": "com.example.myquiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cT2ApsQ3tG9mleIhKiQo6Qp-uIOPr_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639799452643:android:709624ee1823421e6476d6",
+        "android_client_info": {
+          "package_name": "com.example.myquizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cT2ApsQ3tG9mleIhKiQo6Qp-uIOPr_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639799452643:android:ddd8e2f6067a18c86476d6",
+        "android_client_info": {
+          "package_name": "com.example.myquizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cT2ApsQ3tG9mleIhKiQo6Qp-uIOPr_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639799452643:android:eefbb3790ec9ebfe6476d6",
+        "android_client_info": {
+          "package_name": "com.example.myquizzapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cT2ApsQ3tG9mleIhKiQo6Qp-uIOPr_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639799452643:android:2ef93aa4defff1ae6476d6",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cT2ApsQ3tG9mleIhKiQo6Qp-uIOPr_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639799452643:android:ccacb62db3c889d46476d6",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cT2ApsQ3tG9mleIhKiQo6Qp-uIOPr_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
